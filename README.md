@@ -1,4 +1,3 @@
-# .github
 # Consumer Choice Center
 
 ## Your Choice. Our Fight.

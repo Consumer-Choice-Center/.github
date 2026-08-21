@@ -1,6 +1,9 @@
 # Consumer Choice Center
 
 ## Your Choice. Our Fight.
+<p align="center">
+  <img src="./assets/ccc-logo.png" alt="Consumer Choice Center" width="320">
+</p>
 
 The **Consumer Choice Center (CCC)** is an independent, non-partisan consumer advocacy organization championing freedom, innovation, and abundance in everyday life.
 
